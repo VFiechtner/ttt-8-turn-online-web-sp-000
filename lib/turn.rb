@@ -31,5 +31,5 @@ def turn(board)
   else
     puts "Not a valid move"
     turn(board)
-  end  
+  end
 end
